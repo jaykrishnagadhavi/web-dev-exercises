@@ -4,4 +4,4 @@ Here are all the exercises I complete during the course of learning web-developm
 
 
 # Exercises
-<a src="">8.0 CSS Display</a>
+<a src="./8.0 CSS Display/index.html">8.0 CSS Display</a>
